@@ -98,16 +98,6 @@ I chose **Provider** as the state management solution because:
 3. **Delete activity**: Press the trash icon in the activity list
 4. **View details**: Information is displayed in the activity card
 
-## Testing
-
-```bash
-# Run all tests
-flutter test
-
-# Run tests in verbose mode
-flutter test --verbose
-```
-
 ## Build for Production
 
 ### Android APK
